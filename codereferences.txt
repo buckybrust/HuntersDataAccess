@@ -1,0 +1,5 @@
+Most Code Comes From Documentation Provided By https://laravel.com/
+
+Code Structure loosely based off Laracast "laravel 6 from scratch": https://laracasts.com/series/laravel-6-from-scratch
+
+All other code was generated from Laravel itself or was hand written by me.
